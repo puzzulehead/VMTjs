@@ -8,8 +8,7 @@ let accountState;
 
 accountEmail = "vmt@gmailcom"
 accountCity = "banglore"
-console.log(accountId);
-console.log([accountEmail, accountId,accountPassword,accountCity]);
+console.log([accountId, accountEmail, accountPassword, accountCity]);
 /*
 prefer not to use var
 because of issue in block scope('{}') and functional scope
