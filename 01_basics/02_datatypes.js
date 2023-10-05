@@ -23,7 +23,23 @@ console.log(typeof "vikrant");
 //typeof undefined is undefined
 
 
-
-
-
-
+//******************************/ */
+//primitive data types 
+//7 types : Strings,Number,Boolean,null,undefined,Symbol,BigInt
+//Reference (non primitive)
+//Arrays,Objects,Functions
+ console.log(2>=0);
+ const heros = ["iron man", "john wick", "sherlock holmes"];
+ let myObj = {
+    name : "Vikrant",
+    age : 18,
+ }
+const myFunction = function(){
+    console.log("hello VMT");
+}
+//typeof
+//Undefined => undefined
+//Null => object
+//Boolean => boolean
+//Number =>number
+//String => string
