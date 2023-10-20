@@ -30,4 +30,4 @@ console.log(`hi this is ${name} and i am ${age}  years old`);
 // console.log(newStringOne.trim());//to trim the extra spaces
 
 const somestring = 'the quick brown fox jumps over the lazy dog.'
-console.log(somestring.split(separator);
+console.log(somestring.split(' '))
