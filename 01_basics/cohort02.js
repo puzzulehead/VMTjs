@@ -50,6 +50,7 @@ core at a time while running the code and java is a mutltithreaded language.
 // }
 // ]
 
+
 // function operations(a,b,type) {
 //     if(type ==="sum"){
 //         return a+b;
@@ -61,6 +62,8 @@ core at a time while running the code and java is a mutltithreaded language.
 //     console.log(value);
     
 // }
+
+
 
 /*----->string length*/
 // const str = "vikrant kumar";
@@ -79,6 +82,14 @@ core at a time while running the code and java is a mutltithreaded language.
 // }
 // mystr("this is me and this is vikrant kumar","is")
 
+
+
+/*forEach*/
+// const justArray =[1,2,3];
+// function fn(array){
+//     console.log(array);
+// }
+// justArray.forEach(fn)
 
 
 
