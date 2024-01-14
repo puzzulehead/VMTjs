@@ -1,6 +1,6 @@
 let score = "vikrant"
-// console.log(typeof score);
-// console.log(typeof (score));
+console.log(typeof score);
+console.log(typeof (score));
 
 let valueInNumber = Number(score)//this format guarantees that the type of score is number
 // console.log(typeof valueInNumber);
@@ -21,16 +21,16 @@ let stringNumber = String(someNumber)
 
 //**************************Operations*********************************//
 
-let value = 3
-let negvalue = -value
-// console.log(negvalue);
-// console.log(2/3);//in javascript we dont have to use float it will itself give the output in decimal
-let str1 = "hello"
-let str2 = " VMT"
-let str3 = str1 + str2
-console.log(str3);
-console.log("1" + 2);
-console.log(1+ "2");
-console.log(1 + "2" + "3");
-console.log(1 + 2 + "3");
-console.log("1" + 2 + 2);
+// let value = 3
+// let negvalue = -value
+// // console.log(negvalue);
+// // console.log(2/3);//in javascript we dont have to use float it will itself give the output in decimal
+// let str1 = "hello"
+// let str2 = " VMT"
+// let str3 = str1 + str2
+// console.log(str3);
+// console.log("1" + 2);
+// console.log(1+ "2");
+// console.log(1 + "2" + "3");
+// console.log(1 + 2 + "3");
+// console.log("1" + 2 + 2);
