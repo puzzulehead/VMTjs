@@ -1,7 +1,7 @@
 const accountId = 144553
 let accountEmail = "hitesh@google.com"
 var accountPassword = "12345"
-accountCity = "Jaipur"
+let accountCity = "Jaipur"
 let accountState;
 //var let const are preassigned keywords which is the difference between a js and text file
 // accountId = 2 not allowed
