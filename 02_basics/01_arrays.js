@@ -16,13 +16,20 @@ let myheroes = ["johnwick","tony","batman"];
 // myarr.shift()//Removes the first element from an array and returns it. If the array is empty, undefined is returned and the array is not modified.
 // console.log(myarr);
 
-console.log(myarr.includes("vik"))//Determines whether an array includes a certain element, returning true or false as appropriate.
-console.log(myarr.indexOf("vik"))//finds the index of the element
+// console.log(myarr.includes("vik"))//Determines whether an array includes a certain element, returning true or false as appropriate.
+// console.log(myarr.indexOf("vik"))//finds the index of the element
 
-console.log(myarr[0]);
+// console.log(myarr[0]);
 
-const newarr = myarr.join()//Adds all the elements of an array into a string, separated by the specified separator string.
-console.log(typeof newarr);//string
+// const newarr = myarr.join()//Adds all the elements of an array into a string, separated by the specified separator string.
+// console.log(typeof newarr);//string
 
+const onarr = ["a","b","c","d","e"]
+const thisarr = onarr.slice(-2);
 
+console.log(thisarr)
+console.log(onarr)
+
+myarr.splice(1,3,"abcd")
+console.log(myarr)
 
